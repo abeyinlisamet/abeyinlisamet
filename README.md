@@ -8,3 +8,4 @@
 abeyinlisamet/abeyinlisamet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[Not Defterinin Notepad2 ile değiştirilmesi.txt](https://github.com/abeyinlisamet/abeyinlisamet/files/7188134/Not.Defterinin.Notepad2.ile.degistirilmesi.txt)
